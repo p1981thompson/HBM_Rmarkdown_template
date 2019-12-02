@@ -1,0 +1,10 @@
+Package: WileyHBMtemplate
+Type: Package
+Title: generates a Rmarkdown template for human brain mapping journal
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Paul Thompson <paul.thompson@psy.ox.ac.uk>
+Description: generates a Rmarkdown template for human brain mapping journal.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
