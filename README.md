@@ -14,7 +14,7 @@ remotes::install_github("p1981thompson/HBM_Rmarkdown_template")
 
 The **HBM_Rmarkdown_template** package provides a custom [R Markdown](http://rmarkdown.rstudio.com) LaTeX format and template for:
 
-- [Human Brain Mapping](http://www.acm.org/) article
+- [Human Brain Mapping](https://onlinelibrary.wiley.com/journal/10970193) article
 
 Under the hood, LaTeX templates are used to ensure that documents conform precisely to submission standards. At the same time, composition and formatting can be done using lightweight [markdown](https://rmarkdown.rstudio.com/authoring_basics.html) syntax, and R code and its output can be seamlessly included using [knitr](https://yihui.name/knitr/).
 
