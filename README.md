@@ -5,7 +5,7 @@ Human Brain Mapping Rmarkdown template
 
 ## Installation
 
-PLEASE NOTE THAT THE INSTALL INSTRUCTIONS ARE DIFFERENT TO NORMAL. To install, download only the 'WileyHBMtemplate_0.1.0.tar.gz' zip file and then install package using
+PLEASE NOTE THAT THE INSTALL INSTRUCTIONS ARE DIFFERENT TO NORMAL. To install, **download only the 'WileyHBMtemplate_0.1.0.tar.gz' zip file** and then install package using
 
 ```r
 install.packages("WileyHBMtemplate_0.1.0.tar.gz", repos = NULL)
