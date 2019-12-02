@@ -1,13 +1,14 @@
 # HBM_Rmarkdown_template
 Human Brain Mapping Rmarkdown template
 
+**UNDER DEVELOPMENT**
 
 ## Installation
 
-If you wish to install the development version from GitHub (which often contains new article formats), you can do this:
+PLEASE NOTE THAT THE INSTALL INSTRUCTIONS ARE DIFFERENT TO NORMAL. To install, download only the 'WileyHBMtemplate_0.1.0.tar.gz' zip file and then install package using
 
 ```r
-remotes::install_github("p1981thompson/HBM_Rmarkdown_template")
+install.packages("WileyHBMtemplate_0.1.0.tar.gz", repos = NULL)
 ```
 
 ## Overview
